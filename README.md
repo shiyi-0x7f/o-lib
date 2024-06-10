@@ -1,24 +1,23 @@
-<div align="center">
- <span style="font-size: xx-large;font-weight: bolder">开源图书(O-LIB)</span>
-<br>
-O-LIB is a free and open source software for PC.
-</div>
-<br>
+# 开源图书(O-LIB)
 
-<details>
-<summary><span style="color: #4a77d4">找到我</span></summary>
-[Bilibili](https://space.bilibili.com/19276680) 
-[公众号](https://space.bilibili.com/19276680)
-</details>
+**O-LIB** 是一款面向PC端的免费开源软件。
 
-<details>
-<summary><span style="color: #ff736b">功能简介</span></summary>
-1.软件开源，持续优化，无广告。
-2.便捷搜索
-3.自定义文件存储位置
-</details>
+---
 
+## 找到我
 
-# Interface-界面 [![](https://img.shields.io/badge/-Interface-F5F5F5.svg)](#Interface-界面-)
-![img.png](static/img.png)
-![img_1.png](static/img_1.png)
+- [Bilibili](https://space.bilibili.com/19276680)
+- [公众号](https://space.bilibili.com/19276680)
+
+## 功能简介
+
+- **开源软件**：软件完全开源，持续进行优化，且无广告干扰。
+- **便捷搜索**：提供快速方便的搜索功能，帮助用户迅速找到所需图书。
+- **自定义存储**：用户可以自定义图书文件的存储位置，便于管理和访问。
+
+## Interface 界面
+
+![软件界面预览](static/img.png)
+![软件界面预览2](static/img_1.png)
+
+请注意，以上链接和图片路径仅为示例，您需要替换为实际可用的链接和路径。
