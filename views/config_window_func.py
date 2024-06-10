@@ -43,9 +43,9 @@ class ConfigChildWindow(QDialog,Ui_Dialog):
         key_ = config_manager.get("remix_key")
         id_ = config_manager.get("remix_id")
         if self.actEdit.text() != key_:
-            config_manager.set("remix_key", key_)
+            config_manager.set("remix_key", self.actEdit.text())
         if self.pwdEdit.text() != id_:
-            config_manager.set("remix_id", id_)
+            config_manager.set("remix_id", self.pwdEdit.text())
         config_manager.save()
         log.success("配置设置成功")
         self.close()
