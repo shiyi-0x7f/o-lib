@@ -5,8 +5,8 @@
 # get请求线程类
 from PyQt5.QtCore import pyqtSignal,QThread,QMutex
 from bs4 import BeautifulSoup
-from OpenLib.utils.config import config_manager
-from OpenLib.utils.log import log
+from utils.config import config_manager
+from utils.log import log
 
 import requests
 

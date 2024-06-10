@@ -3,8 +3,8 @@
 # @Time : 2023/6/7 22:39
 # @Author: shiyi0x7f
 from PyQt5.QtCore import QThread,pyqtSignal,QMutex
-from OpenLib.utils.config import config_manager
-from OpenLib.utils.log import log
+from utils.config import config_manager
+from utils.log import log
 from bs4 import BeautifulSoup
 import time
 import requests

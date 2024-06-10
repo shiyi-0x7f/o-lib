@@ -17,16 +17,15 @@ from PyQt5.QtCore import Qt
 from .config_window_func import ConfigChildWindow
 from .main_window_ui import Ui_MainWindow
 # 功能模块
-from OpenLib.controllers.zlibsearch import ZlibSearcherV3
-from OpenLib.controllers.zlibdownload import ZlibDownloader3
-from OpenLib.utils.config import config_manager
-from OpenLib.utils.log import log
+from controllers.zlibsearch import ZlibSearcherV3
+from controllers.zlibdownload import ZlibDownloader3
+from utils.config import config_manager
+from utils.log import log
 
 import qtawesome as qta
 import re
 import os
 import sys
-import random
 import webbrowser
 
 class MainWindow(QMainWindow, Ui_MainWindow):

@@ -6,8 +6,8 @@
 from PyQt5.QtWidgets import QMessageBox,QDialog
 from PyQt5.QtCore import pyqtSignal
 from .config_window_ui import Ui_Dialog
-from OpenLib.utils.config import config_manager
-from OpenLib.utils.log import log
+from utils.config import config_manager
+from utils.log import log
 import webbrowser
 
 
