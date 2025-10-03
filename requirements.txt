@@ -1,0 +1,17 @@
+certifi==2025.7.14
+charset-normalizer==3.4.2
+colorama==0.4.6
+darkdetect==0.8.0
+idna==3.10
+loguru==0.7.3
+psutil==7.0.0
+PyQt-Fluent-Widgets==1.8.4
+PyQt5==5.15.11
+PyQt5-Frameless-Window==0.7.3
+PyQt5-Qt5==5.15.2
+PyQt5_sip==12.17.0
+python-dotenv==1.1.1
+pywin32==311
+requests==2.32.4
+urllib3==2.5.0
+win32_setctime==1.2.0

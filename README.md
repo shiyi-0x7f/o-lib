@@ -1,6 +1,6 @@
-开源图书(Olib)客户端源代码
+开源图书 (Olib) 客户端源代码
 <br>
-由于代码内部有冗余包，因此目前没有提供环境文件requirements.txt，需要手动进行安装。
+虽然代码内部有冗余包，但是还是提供了环境文件 `requirements.txt`，先凑合着用。
 <br>
 你可以在<a href="https://space.bilibili.com/19276680">BiliBili</a>找到我.
 <br>
